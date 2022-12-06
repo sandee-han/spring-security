@@ -38,3 +38,4 @@ out/
 .vscode/
 /gradle/
 /gradle/
+/src/main/resources/application1.yml
